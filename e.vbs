@@ -1,3 +1,4 @@
+e()
 Function e
         e = MsgBox("ee ee?",51,"e")
         If e = 6 Then
